@@ -1,0 +1,13 @@
+<html>
+    <head></head>
+        <body>
+            <nav>
+                <ul>
+                 <li>Home</li>
+                 <li>Galeria</li>
+                 <li>Contatos</li>
+                 <li>Receitas</li>
+                </ul>
+            </nav>
+        </body>
+</html>
